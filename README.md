@@ -13,7 +13,6 @@ A React-based weather application to practice UI development and API integration
 - `src/pages`: Application views.
 - `src/utils`: Helper functions and API calls.
 
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
