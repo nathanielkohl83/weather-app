@@ -1,3 +1,19 @@
+# Weather Application
+
+## Project Goals
+A React-based weather application to practice UI development and API integration.
+
+## Setup Instructions
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Start the development server with `npm run dev`.
+
+## Folder Structure
+- `src/components`: Reusable components.
+- `src/pages`: Application views.
+- `src/utils`: Helper functions and API calls.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
